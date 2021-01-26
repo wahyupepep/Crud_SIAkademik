@@ -1,3 +1,3 @@
 <?php
-  $koneksi=mysqli_connect('localhost','root','','pwl_a121806055');
+  $koneksi=mysqli_connect('localhost','root','','siakademik');
 ?>

@@ -36,10 +36,8 @@ if (!isset($_SESSION["username"])) {
     <div class="jumbotron mt-5 ml-5 mr-5 text-dark" style="border-radius: 10px; background-color:aliceblue">
       <div class="container ">
         <h1 class="display-2">Welcome...</h1>
-        <p class="lead text-justify">Ini adalah Sistem Informasi Akademik sederhana yang dibuat untuk memenuhi tugas pemrograman
-          web lanjut kelompok A12.6505 yang ada pada semester 5 program studi Sistem Informasi, Fakultas
-          Ilmu Komputer, Universitas Dian Nuswantoro Semarang.</p><br><br>
-        <p class="text-center" style="font-size:20px;">"A12.2018.06055 // Wahyu Febriyanto Utomo"</p>
+        <p class="lead text-justify">Ini adalah Sistem Informasi Akademik sederhana yang dibuat untuk
+        latihan menggunakan bahasa pemrograman php native.</p><br><br>
       </div>
     </div>
   </div>
